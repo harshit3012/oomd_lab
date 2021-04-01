@@ -1,4 +1,4 @@
-## oomd_lab (6th Sem, 2020-21)
+## OOMD Lab (6th Sem, 2020-21)
 
 ### Harshit Hiremath
 
